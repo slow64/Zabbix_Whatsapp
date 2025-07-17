@@ -31,7 +31,7 @@ Antes de começar, você precisará ter instalado:
 Instale as dependências Python:
 ```bash
 pip install requests selenium pandas
-
+```
 ## 🚀 **Como Usar**
 Execute o script:
 
