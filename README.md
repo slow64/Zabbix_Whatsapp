@@ -34,9 +34,9 @@ pip install requests selenium pandas
 ```
 ## 🚀 **Como Usar**
 Execute o script:
-
+```bash
 python zabbix_alerts.py
-
+```
 Escaneie o QR code do WhatsApp Web quando solicitado
 
 O sistema irá:
