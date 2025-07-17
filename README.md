@@ -7,9 +7,9 @@
 Este projeto monitora alertas do Zabbix e os envia para um grupo específico no WhatsApp, além de armazená-los em um arquivo Excel para histórico.
 
 ## 📋 Tabela de Conteúdos
-- [Funcionalidades](#✨-funcionalidades)
-- [Pré-requisitos](#📋-pré-requisitos)
-- [Como Usar](#🚀-como-usar)
+- [Funcionalidades](#funcionalidades)
+- [Pré-requisitos](#pre-requisitos)
+- [Como Usar](#como-usar)
 <a name="funcionalidades"></a>
 ## ✨ Funcionalidades
 
