@@ -9,12 +9,7 @@ Este projeto monitora alertas do Zabbix e os envia para um grupo específico no 
 ## 📋 Tabela de Conteúdos
 - [Funcionalidades](#✨-funcionalidades)
 - [Pré-requisitos](#📋-pré-requisitos)
-- [Configuração](#⚙️-configuração)
 - [Como Usar](#🚀-como-usar)
-- [Estrutura do Projeto](#📂-estrutura-do-projeto)
-- [Personalização](#🎨-personalização)
-- [Troubleshooting](#⚠️-troubleshooting)
-- [Licença](#📄-licença)
 
 ## ✨ Funcionalidades
 
@@ -38,7 +33,9 @@ Instale as dependências Python:
 pip install requests selenium pandas
 
 ## 🚀 **Como Usar**
-Execute o script: python zabbix_alerts.py
+Execute o script:
+
+python zabbix_alerts.py
 
 Escaneie o QR code do WhatsApp Web quando solicitado
 
