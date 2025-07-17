@@ -10,7 +10,7 @@ Este projeto monitora alertas do Zabbix e os envia para um grupo específico no 
 - [Funcionalidades](#✨-funcionalidades)
 - [Pré-requisitos](#📋-pré-requisitos)
 - [Como Usar](#🚀-como-usar)
-
+<a name="funcionalidades"></a>
 ## ✨ Funcionalidades
 
 - ✅ Monitoramento contínuo de alertas do Zabbix
@@ -19,7 +19,7 @@ Este projeto monitora alertas do Zabbix e os envia para um grupo específico no 
 - 🔍 Filtragem por severidade (ignora alertas de baixa/média prioridade)
 - ⚡ Cache de IPs para melhor desempenho
 - ✨ Mensagens formatadas com emojis e informações organizadas
-
+<a name="pre-requisitos"></a>
 ## 📋 Pré-requisitos
 
 Antes de começar, você precisará ter instalado:
@@ -32,6 +32,7 @@ Instale as dependências Python:
 ```bash
 pip install requests selenium pandas
 ```
+<a name="como-usar"></a>
 ## 🚀 **Como Usar**
 Execute o script:
 ```bash
